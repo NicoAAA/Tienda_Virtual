@@ -1,0 +1,38 @@
+[
+    {
+        "codigo": "0000003",
+        "descripcion": "BATE METALICO DE BASEBOL",
+        "inventario": 196,
+        "precio": 100.0
+    },
+    {
+        "codigo": "0000004",
+        "descripcion": "TENIS DE MESA",
+        "inventario": 90,
+        "precio": 23.0
+    },
+    {
+        "codigo": "0000045",
+        "descripcion": "PROTECTOR BUCAL MEDIUM",
+        "inventario": 1,
+        "precio": 20.0
+    },
+    {
+        "codigo": "0000089",
+        "descripcion": "BALON DE FUTBOL 3.5 ADIDAS",
+        "inventario": 4,
+        "precio": 20.0
+    },
+    {
+        "codigo": "0000333",
+        "descripcion": "BALON DE RUGBY PROFESIONAL",
+        "inventario": 112,
+        "precio": 100.0
+    },
+    {
+        "codigo": "0001234",
+        "descripcion": "WEPA GEEEE",
+        "inventario": 3000,
+        "precio": 1.0
+    }
+]

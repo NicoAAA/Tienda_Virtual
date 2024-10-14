@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "0000000",
+        "descripcion": "BALON DE FUTBOL 5 GOLTY",
+        "inventario": 50,
+        "precio": 20.99
+    },
+    {
+        "codigo": "0000002",
+        "descripcion": "BALON DE BALONCESTO",
+        "inventario": 34,
+        "precio": 20.0
+    },
+    {
+        "codigo": "0000023",
+        "descripcion": "TURTA",
+        "inventario": 23,
+        "precio": 123.0
+    },
+    {
+        "codigo": "0000034",
+        "descripcion": "RUNNER",
+        "inventario": 34,
+        "precio": 345.0
+    },
+    {
+        "codigo": "0000045",
+        "descripcion": "PROTECTOR BUCAL MEDIUM",
+        "inventario": 34,
+        "precio": 20.0
+    },
+    {
+        "codigo": "0000089",
+        "descripcion": "BALON DE FUTBOL 3.5 ADIDAS",
+        "inventario": 23,
+        "precio": 20.0
+    },
+    {
+        "codigo": "0003456",
+        "descripcion": "TUNDRA",
+        "inventario": 245,
+        "precio": 1.99
+    },
+    {
+        "codigo": "0122333",
+        "descripcion": "BALON DE RUGBY PROFESIONAL",
+        "inventario": 12,
+        "precio": 100.0
+    }
+]
